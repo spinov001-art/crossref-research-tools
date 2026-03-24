@@ -93,6 +93,8 @@ def analyze_funding(query, sample=50):
 - [OpenAlex Research Tools](https://github.com/spinov001-art/openalex-research-tools) — search 250M+ papers via OpenAlex API
 - [npm Package Health Check](https://github.com/spinov001-art/npm-package-health-check) — security audit npm packages
 - [AI Market Research](https://github.com/spinov001-art/ai-market-research) — AI-powered market research tools
+- [Free APIs List](https://github.com/spinov001-art/free-apis-list) — 200+ free APIs
+- [Free Security APIs Toolkit](https://github.com/spinov001-art/free-security-apis-toolkit) — HIBP, WHOIS, VirusTotal, Shodan
 
 ## License
 
